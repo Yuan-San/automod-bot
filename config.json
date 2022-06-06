@@ -1,7 +1,7 @@
 {
   
-  "default_prefix": "q",
-    "owners": "682981714523586606",
+  "default_prefix": ["kz!", "Kz!"],
+    "owners": "714207165350543403",
     
 
 
@@ -14,14 +14,14 @@
         "repeat": "🔁",
         "error": "❌",
  "YOUTUBE_API_KEY": "",
- "premium": "682981714523586606",
- "PREFIX": "q",
+ "premium": "714207165350543403",
+ "PREFIX": ["kz!", "Kz!"],
  "mongodb": "",
  "database": "",
- "BOT_ID": "744597377406599188",
+ "BOT_ID": "983332486618710046",
  "embedcolor": "BLUE",
  "EMOJI_ARROW":"🔄",
- "WELCOME_CHANNEL": "815889737750544405",
+ "WELCOME_CHANNEL": "974702320053002291",
     "QUEUE_LIMIT": 2,
     "owners": "682981714523586606",
     "AME_API": "",
